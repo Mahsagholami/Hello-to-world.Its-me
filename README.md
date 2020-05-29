@@ -1,2 +1,2 @@
-#tic-toc-toe-projwct
+#tic-toc-toe-project
 :)
